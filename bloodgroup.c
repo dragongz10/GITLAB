@@ -1,19 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 void main()
-<<<<<<< HEAD
 { char Name[50], G[6], answer[15];
   int i;
   do
   {
     printf("What your Name! ");
-=======
-{ char Name[50], G[5], answer[15];
-  int i;
-  do
-  {
-    printf("What is your Name! ");
->>>>>>> 47cad6b69c5f51a0e6167bf00ede278a146a1671
     scanf("%s", Name);
     do
     {
